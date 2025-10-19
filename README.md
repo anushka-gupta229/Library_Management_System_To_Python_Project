@@ -1,1 +1,4 @@
 # Library_Management_System_To_Python_Project
+DESCRIPTION: This Library Management System is a simple Python-based project designed to help manage the borrowing and returning of books in a small library. It uses basic Python concepts like dictionaries, loops, and functions to keep track of available books and borrowed ones. The system offers a user-friendly menu with options to display available books, borrow a book, return a book, and exit the program.
+
+When a user borrows a book, the number of available copies is reduced, and when a book is returned, it is added back to the library's collection. This project demonstrates the practical use of data handling and user interaction in Python. It is ideal for beginners who want to learn the fundamentals of programming, logic building, and data management. This system can be further improved by adding features like user authentication, due dates, and fine calculation.
